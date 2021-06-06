@@ -1,8 +1,6 @@
-**Project Description**
+# Analyzing TV Data
 
-With Intermediate Python under your belt, you can already analyze and extract meaningful insights from various sources. For this set of projects, you will use a combination of data manipulation and visualization to explore television data.
-
-In this project's guided variant, you will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows. In the unguided variant of this project, you'll develop an informative plot that helps to visualize the viewership and quality of The Office throughout its nine seasons.
+Television entertainment was once, bigest entertainment industry in United States. In this project, I looked at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows. I developed an informative plot that helps to visualize the viewership and quality of the office throughout along its nine seasons. I used a combination of data manipulation and visualization to explore television data. Data for this projects was scapped from wikipidea by my DataCamp instructor.
 
 **Project Tasks**
 
